@@ -1,0 +1,6 @@
+<resources>
+    <string id="AppName">Dreieck Power Estimation</string>
+	<string id="labelName">Est. Power</string>
+	
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+</resources>
